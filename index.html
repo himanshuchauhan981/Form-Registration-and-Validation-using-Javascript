@@ -1,0 +1,31 @@
+<html>
+   <head>
+      <title>Validation Form</title>
+      <link rel="stylesheet" href="validationCSS.css">
+      <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Aladin" rel="stylesheet">
+   </head>
+   <body>
+      <h1>Registration Form</h1>
+      <div class="container">
+         <form name="myForm"  onsubmit="validateForm()" action="#">
+            <div class="form-container">
+               <label>Username</label>
+               <p id="usernameError"></p>
+               <input type="text" placeholder="Enter Username" id="getUsername">
+               <label>Password</label>
+               <p id="passwordError"></p>
+               <input type="password" placeholder="Enter Password" id="getPassword">
+               <label>Email ID</label>
+               <p id="emailIdError"></p>
+               <input type="email" placeholder="Enter Email ID" id="getEmailID">
+               <label>Mobile Number</label>
+               <p id="MobileNumberError"></p>
+               <input type="text" placeholder="Enter Phone Number" id="getMobileNumber">
+               <input type="submit" value="Submit" class="button">
+            </div>
+         </form>
+      </div>
+      <script src="validationJS.js"></script>
+   </body>
+</html>
