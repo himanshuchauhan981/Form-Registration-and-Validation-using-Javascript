@@ -1,0 +1,54 @@
+body{
+   background-color: #F39C12;
+}
+h1{
+   font-family: 'Aladin';
+   font-size:45px;
+   text-align:center;
+}
+label{
+   font-family:'Acme';
+   font-size:20px;
+   margin-left:7px;
+
+}
+.container{
+   width:400px;
+   margin: 0 auto;
+   background-color:white;
+   border-radius: 15px;
+}
+
+.form-container{
+   padding:15px;
+}
+
+input{
+   width:100%;
+   padding:15px;
+   margin:5px 0 22px 0;
+   display: inline-block;
+   border: none;
+   background: #f1f1f1;
+   border-radius:24px;
+   font-size:14px;
+}
+input:focus{
+   background-color:#ddd;
+   border:1px solid  #73AD21;
+}
+.button{
+   background-color:#4CAF50;
+   color:white;
+   padding:10px 20px;
+   border:none;
+   cursor:pointer;
+   width:100%;
+   opacity:0.9;
+   font-size:20px;
+   border-radius: 15px;
+}
+#usernameError,#passwordError,#emailIdError,#MobileNumberError{
+   color:red;
+   font-size:15px;
+}
