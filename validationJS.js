@@ -1,4 +1,5 @@
-function validateForm(){
+function validateForm(event){
+	event.preventDefault();
    var user = document.myForm.getUsername.value;
    var pwd = document.myForm.getPassword.value;
    var email = document.myForm.getEmailID.value;
