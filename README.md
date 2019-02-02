@@ -4,10 +4,10 @@ This project is about Form Registration and Validation. User would enter details
 
 ## Screenshots
 
-#Registration Form
+# Registration Form
 
 ![formRegistration.png](https://python-project.000webhostapp.com/formRegistration.png)
 
-#After Validation
+# After Validation
 
 ![formValidation.png](https://python-project.000webhostapp.com/formValidation.png)
