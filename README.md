@@ -2,7 +2,7 @@
 
 This project is about Form Registration and Validation. User would enter details like Name, Email Address, Password etc. All the validation is being done using the JavaScript.
 
-[Click Here](http://registrationformusingjavascript.000webhostapp.com)
+[Click Here](http://registrationformusingjavascript.000webhostapp.com) to view this project
 ## Screenshots
 
 # Registration Form
