@@ -6,4 +6,4 @@ This project is about Form Registration and Validation. User would enter details
 
 Registration Form
 
-![formRegistration](https://python-project.000webhostapp.com/formRegistration.png)
+![formRegistration.png](https://python-project.000webhostapp.com/formRegistration.png)
